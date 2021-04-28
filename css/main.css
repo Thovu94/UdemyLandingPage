@@ -32,7 +32,7 @@ ul li {
 
 .wallpaper {
   position: relative;
-  background-image: url(/img/christina-wallpaper.jpg);
+  background-image: url(../img/christina-wallpaper.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 100vh;
